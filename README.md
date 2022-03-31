@@ -1,2 +1,2 @@
 # GetFileName
-A small tool that reads all the files of the directory and writes it to a file.
+A simple tool that creates a filelist of files present in current directory.
